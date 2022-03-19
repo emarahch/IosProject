@@ -1,1 +1,3 @@
 # IosProject
+- Game browsing app : inspo from movie app, look for game api....
+- 
